@@ -32,3 +32,8 @@
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="AWS WebServices" height="60" width="54" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
+
+##
+  
+![Snake animation](https://github.com/PedroPaiao/PedroPaiao/blob/output/github-contribution-grid-snake.svg)
+  
