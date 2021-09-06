@@ -10,6 +10,7 @@
 - 🤔 Tem uns repositorios bem estranhos nesse github, da uma "curiada ai"
 - 📫 Contate-me no email: devpedropaiao@gmail.com
 - ⚡ Fun fact: Melhor armador de basquete com 1.76 de altura hehe
+- ⚡ Se liga nessa gem que eu postei no 4fun: [CPF Simplifier](https://rubygems.org/gems/cpf_simplifier)
 
 ##
 
