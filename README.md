@@ -5,7 +5,7 @@
 </div>
 
 ##
-- 🔭 Hoje eu trabalho como Software Engineer Backend na empresa [Maxihost](https://www.maxihost.com/br) como fullstack developer (Angular/Rails)
+- 🔭 Hoje eu trabalho como Software Engineer Backend na empresa [Maxihost](https://www.maxihost.com/br)
 - 🌱 Atualmente estou cursando Sitemas de Informação na [UFMS](https://www.ufms.br/)
 - 🤔 Tem uns repositorios bem estranhos nesse github, da uma "curiada ai"
 - 📫 Contate-me no email: devpedropaiao@gmail.com
