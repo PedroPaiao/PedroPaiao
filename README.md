@@ -5,12 +5,12 @@
 </div>
 
 ##
-- 🔭 Hoje eu trabalho como Software Engineer Backend na empresa [Maxihost](https://www.maxihost.com/br)
-- 🌱 Atualmente estou cursando Sitemas de Informação na [UFMS](https://www.ufms.br/)
-- 🤔 Tem uns repositorios bem estranhos nesse github, da uma "curiada ai"
-- 📫 Contate-me no email: devpedropaiao@gmail.com
-- ⚡ Fun fact: Melhor armador de basquete com 1.76 de altura hehe
-- ⚡ Se liga nessa gem que eu postei no 4fun: [CPF Simplifier](https://rubygems.org/gems/cpf_simplifier)
+- 🔭 Today I work as a Backend Software Engineer at the company [Maxihost](https://www.maxihost.com/br)
+- 🌱 I am currently studying Information Systems at [UFMS](https://www.ufms.br/)
+- 🤔 There are some very strange repositories in this github, take a look
+- 📫 Contact me on email: devpedropaiao@gmail.com
+- ⚡ Fun fact: Best basketball point guard with 1.76 height hehehe
+- ⚡ Watch this gem I posted on 4fun: [CPF Simplifier](https://rubygems.org/gems/cpf_simplifier)
 
 ##
 
