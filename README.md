@@ -1,4 +1,4 @@
-## FALA DEV!, MEU NOME É PEDRO E ISSO É UM POUCO SOBRE MIM!
+## HI DEV!, MY NAME IS PEDRO AND THAT'S A LITTLE ABOUT ME!
 
 <div align="center">
   <img align="center" alt="Rafa-yoda" height="180" src="https://user-images.githubusercontent.com/51393746/127892857-acf6082e-b671-4f6a-a598-42762226facf.gif">
