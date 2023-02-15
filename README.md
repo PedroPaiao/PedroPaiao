@@ -5,7 +5,7 @@
 </div>
 
 ##
-- 🔭 Today I work as a Software Engineer at the company [99Hunters](https://www.99hunters.com/)
+- 🔭 Today I work as a Software Engineer at the company [Jera Software](https://jera.com.br/)
 - 🌱 I am currently studying Information Systems at [UFMS](https://www.ufms.br/)
 - 🤔 There are some very strange repositories in this github, take a look
 - 📫 Contact me on email: devpedropaiao@gmail.com
